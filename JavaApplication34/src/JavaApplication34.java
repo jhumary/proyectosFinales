@@ -20,6 +20,9 @@ public class JavaApplication34 {
     public static void main(String[] args) {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null,"hola mundo");
+        JOptionPane.showMessageDialog(null, "1");
+    JOptionPane.showMessageDialog( null, "2");
+    JOptionPane.showMessageDialog(null,"3 mundo");
     }
     
 }
